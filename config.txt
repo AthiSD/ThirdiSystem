@@ -1,0 +1,7 @@
+PatientFolder='/media/npdslitlamp/AUROSSD/Patientimages/'
+TempFolder='/media/npdslitlamp/AUROSSD/Patientimages/temp/'
+DBFolder='DB/ThirdI.db'
+ReportLogo='images/'
+Marker='False'
+HName='AUROSSD'
+Backup='/media/npdslitlamp/AUROSSD/'

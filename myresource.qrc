@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/new/prefix_topheader">
+        <file>images/logo_with_text.png</file>
+        <file>images/aboutus.png</file>
+        <file>images/doctor_img.png</file>
+        <file>images/settings_ 2.png</file>
+        <file>images/users.png</file>
+        <file>images/calender.png</file>
+        <file>images/users_off.png</file>
+        <file>images/search.png</file>
+        <file>images/live.png</file>
+        <file>images/plus.png</file>
+        <file>images/refresh-cw.png</file>
+        <file>images/doctor.png</file>
+        <file>images/settings_ 2 (2).png</file>
+        <file>images/logo_with_text_splash.png</file>
+    </qresource>
+    <qresource prefix="/msgdialogok"/>
+    <qresource prefix="/new/prefix_msgdialogok">
+        <file>images/check.png</file>
+        <file>images/delete-2.png</file>
+    </qresource>
+    <qresource prefix="/prefix_stack"/>
+    <qresource prefix="/new/prefix_stack">
+        <file>images/chevron-left.png</file>
+        <file>images/Ellipse 14.png</file>
+        <file>images/x.png</file>
+        <file>images/camera.png</file>
+        <file>images/camera_on.png</file>
+        <file>images/record_off.png</file>
+        <file>images/cloud-upload.png</file>
+        <file>images/cloud-upload_1.png</file>
+        <file>images/calendar 1.png</file>
+        <file>images/user_.png</file>
+        <file>images/delete_2.png</file>
+        <file>images/capture.png</file>
+        <file>images/icon.png</file>
+        <file>images/report_1.png</file>
+        <file>images/sidebar-collapse_1.png</file>
+        <file>images/chevron-right.png</file>
+        <file>images/full_screen.png</file>
+        <file>images/zoom_in.png</file>
+        <file>images/zoom_out.png</file>
+        <file>images/zoom_to_fit_3.png</file>
+        <file>images/logo_A.png</file>
+        <file>images/edit.png</file>
+        <file>images/power 1.png</file>
+        <file>images/fullscreen_exit.png</file>
+        <file>images/exit.png</file>
+    </qresource>
+</RCC>

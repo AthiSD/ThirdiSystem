@@ -1,0 +1,16 @@
+{
+    "files": [
+        "aboutclass.py",
+        "aboutdialog.ui",
+        "dashscreen.py",
+        "doctorclass.py",
+        "doctordialog.ui",
+        "form.ui",
+        "licenceclass.py",
+        "msgdialog.ui",
+        "msgdialogok.py",
+        "msgdialogyes.py",
+        "msgdialogyes.ui",
+        "myresource.qrc"
+    ]
+}
